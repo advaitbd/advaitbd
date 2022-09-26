@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Advait.></h1>
+<h1 align="center">Hi 👋, I'm Advait.</h1>
 <h3 align="center">A 2nd Year student studying Business and Computer Science at NTU in Singapore!</h3>
 <div align="center">
 
