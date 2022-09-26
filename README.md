@@ -2,7 +2,7 @@
 <h3 align="center">A 2nd Year student studying Business and Computer Science at NTU in Singapore!</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaitttt/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/advaittt/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:advait.bharat.deshpande@gmail.com)
 [![image](https://img.shields.io/badge/Telegram-188AD5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/advvv)
 
