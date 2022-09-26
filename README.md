@@ -9,7 +9,7 @@
   
 </div>
 
-- 🔭 I’m currently exploring on **Web3 and DeFi**
+- 🔭 I’m currently exploring **Web3 and DeFi**
 
 - 🌱 I’m currently learning **Solidity, Next.js and Firebase**
 
