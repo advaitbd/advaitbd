@@ -51,9 +51,3 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=crustyapples&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crustyapples&theme=react&layout=compact" />
 </p>
-
-------
-
-[Advait Deshpande](https://github.com/crustyapples)
-
-Last Edited on: 26/09/2022
