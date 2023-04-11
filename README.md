@@ -27,19 +27,19 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,,react,tailwind,nextjs,figma" />
     </a>
   </p>
   <h3>Backend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,firebase,mysql" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,mysql,firebase,aws" />
     </a>
   </p>
   <h3>Software (Misc.)</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,solidity,git,selenium" />
+      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,solidity,git,selenium,postman" />
     </a>
   </p>
   <br />
