@@ -27,7 +27,7 @@
   <h3>Frontend</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,,react,tailwind,nextjs,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,figma" />
     </a>
   </p>
   <h3>Backend</h3>
