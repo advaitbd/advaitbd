@@ -21,30 +21,6 @@
 
 <br />
 
-<h2 align="center"> 🛠 Tech Stack:</h2>
-
-<div align="center">
-  <h3>Frontend</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,figma" />
-    </a>
-  </p>
-  <h3>Backend</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,mongodb,mysql,firebase,aws" />
-    </a>
-  </p>
-  <h3>Software (Misc.)</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,java,c,cpp,r,solidity,git,selenium,postman" />
-    </a>
-  </p>
-  <br />
-</div>
-
 <h2 align="center">  💻 GitHub Stats:</h2>
 <br />
 <p align= "center">
