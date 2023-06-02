@@ -24,7 +24,7 @@
 <br />
 <p align= "center">
   <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=crustyapples&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crustyapples&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=crustyapples&theme=react&layout=compact" />
 </p>
 
 
