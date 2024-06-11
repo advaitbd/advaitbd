@@ -8,11 +8,7 @@
 
 </div>
 
-- 🔭 I’m currently exploring **Web3 and DeFi**
-
-- 🌱 I’m currently learning **Solidity, Next.js and Firebase**
-
-- 👯 I’m looking to join some **Hackathons and Case Competitions**
+- 🔭 I’m currently trying to find meaning in life
 
 - 📫 How to reach me: **advait.deshpande@live.com**
 
